@@ -1,7 +1,10 @@
 # colecionavel.digital
 Repositório para envio de arquivos em ipfs e mint de token ERC-721
-contrato:0xd73527fd72Ce34F09B8308AAc8BAa3Cf3e25bdA4
-registro IPFS: ipfs://bafyreifxwteb4tb6akv5ledsns7ahareyzmdozmk2wq73clpizv2s26evi
+
+Contrato:0xd73527fd72Ce34F09B8308AAc8BAa3Cf3e25bdA4
+
+Registro IPFS: ipfs://bafyreifxwteb4tb6akv5ledsns7ahareyzmdozmk2wq73clpizv2s26evi
+
 Wallet: 0x2471a2eb689CB37b24BBa6d1D11D8b1eD5B4bdC6
 
 ![image](https://user-images.githubusercontent.com/63523841/192928481-a92fd131-f35b-46bc-bc62-f84014fbd21e.png)
