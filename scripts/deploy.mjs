@@ -1,5 +1,5 @@
 async function deployContract() {
-    const NFT = await ethers.getContractFactory("colecionavel.digital")
+    const NFT = await ethers.getContractFactory("NFT.sol")
     const nft = await NFT.deploy()
     await nft.deployed()
     const txHash = nft.deployTransaction.hash
